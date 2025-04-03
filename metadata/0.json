@@ -1,0 +1,10 @@
+{
+    "name":"BaseTBA",
+    "description":"This is a Sample NFT for Base",
+    "symbol": "BTBA",
+    "image":"https://i.imgur.com/GkLbHGa.png",
+    "attributes":{
+        "trait_type":"Logo",
+        "value":"Base"
+    }
+}
